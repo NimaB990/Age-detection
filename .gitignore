@@ -47,6 +47,8 @@ env/
 # Model files (large files)
 models/*.caffemodel
 models/*.prototxt
+models/*.pbtxt
+models/*.pb
 
 # Test output
 test_output/
